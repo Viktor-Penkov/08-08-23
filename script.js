@@ -77,7 +77,7 @@ var app = new Vue({
   data: {
     appTitle: 'Vue Weather App',
     dataApi: 'aae97860de78632108ecc73036d6d17c',
-    cityName: 'milano',
+    cityName: 'kyiv',
     lang: 'en',
     weatherRes: null
   },
